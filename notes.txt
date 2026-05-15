@@ -1,0 +1,14 @@
+Repository
+**********
+    Repositories are also called as code collabration tools
+    Ex.
+        GitHub
+        GitLab
+        BitBucket
+        SVN
+        CVS
+        ---
+        ---
+        ---
+    "git" is the client/tool, used to interact with the Repositories
+    
