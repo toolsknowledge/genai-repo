@@ -11,4 +11,27 @@ Repository
         ---
         ---
     "git" is the client/tool, used to interact with the Repositories
+
+we will cover below topics
+**************************
+1) Python
+2) Generative AI
+3) Agentic AI
+4) Machine Learning
+5) Deep Learning
+6) Natural Language Processing
+7) FastAPI Framework
+8) Pipeline 
+        GitHub
+        GitHub Hooks
+        Jenkins
+        Docker
+        EC2 (AWS)
+9) Two Projects
+10) Integrations - Spring Boot - ReactJS
+
+5 months
+1.30hr - 2hr
+7AM - 8AM
++1 (or) -1
     
